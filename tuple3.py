@@ -1,0 +1,5 @@
+alphaDuplicate=('a','b','c')
+alpha=('a','b','c')
+id(alpha)
+id(alphaDuplicate)
+print()

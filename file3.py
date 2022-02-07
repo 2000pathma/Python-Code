@@ -1,0 +1,6 @@
+f= open("C:\\Users\\2000p\\Documents\\Java\\test.txt","w+")
+f.write('kumaran@zoho.com')
+print(f.readable())
+print(f.writeable())
+print(f.name())
+f.close()
